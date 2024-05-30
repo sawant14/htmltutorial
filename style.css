@@ -1,0 +1,33 @@
+html{
+    scroll-behavior: smooth;
+}
+.c{
+    color: white;
+}
+.a{
+    color: white;
+}
+
+.b{
+    color: white;
+}
+
+body{
+    background-color: #272727;
+    
+}
+nav{
+    background-color: wheat;
+}
+
+.Blue{
+    background-color: aquamarine;
+}
+
+.Red{
+    background-color: blueviolet;
+}
+
+.Green{
+    background-color: brown;
+}
